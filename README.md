@@ -9,4 +9,4 @@
 - For classes we use pascle convention
 - For function we use camel casing
 
-![alt text](../Java/images/image.png)
+![alt text](../Java/main/images/image.png)
