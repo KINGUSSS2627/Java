@@ -6,6 +6,10 @@
 4. Operator
 5. Strings
 6. If Else
+7. Switch Case
+8. Loops
+9. Array
+10. Methodes
 
 # Java
 
@@ -73,3 +77,39 @@
   - s.equalsIgnoreCase(s1)
 
 # If Else
+
+- Normal ifElse similar to C++
+
+# Switch Case
+
+- Similar Switch Case of C++
+
+# Loops
+
+- the Cond must be boolean
+- Rest is same as C++
+
+# Arrays
+
+- Dclaration :
+
+  - String s[] = new String[5];
+  - String []s;
+    s = new String[5];
+  - String [][] s;
+    s = new String[2][3];
+
+- Methode
+  - s.length -> Gives length of string
+
+# Methode in Java
+
+- Similar to functions in C++
+- It is funciton clubbed inside the class
+- Use static keyword to access methode without creating classes
+- Can be overloaded similar to C++
+- Arrays are passed by references similar holds for objects
+
+# Variable Arguments
+
+-
